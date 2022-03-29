@@ -1,1 +1,1 @@
-# Welcome to the <em><mark>official</em></mark> FennOS Website!
+# Welcome to the <em><mark>official</mark></em> FennOS Website!
